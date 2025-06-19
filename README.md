@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GalacticalPlat4
+- 👋 Hi, I’m Chris Garcia
 - 👀 I’m interested in everything Microsoft
 - 🌱 I’m currently learning PowerShell
 - 💞️ I’m looking to collaborate on anything Intune related with PowerShell (Anything also related to Automation as well)
