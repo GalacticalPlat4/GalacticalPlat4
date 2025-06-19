@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GalacticalPlat4
 - 👀 I’m interested in everything Microsoft
-- 🌱 I’m currently learning PowerShell and Intune/AutoPilot
+- 🌱 I’m currently learning PowerShell
 - 💞️ I’m looking to collaborate on anything Intune related with PowerShell (Anything also related to Automation as well)
 - 📫 How to reach me chris@vyxen.art for now
 
